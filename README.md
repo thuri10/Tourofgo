@@ -3,19 +3,18 @@
 The link of the resource used during the learning process is
 <https://go.dev/tour/list>
 
-1. Packages
-2. Imports
-3. Exports
-4. Functions
-5. functions-continued
-6. multiple-results
-7. name-results
-8. variables
-9. Variables with initializers
-10. Short variable declarations
-11. Basic types
-12. Zero values
-13. Type  Conversion
-14. type Inference
-15. constants
-16. Numeric Constants
+This is an Interactive introduction to GO language in three sections
+
+## First section
+This sections covers
+1. Basic Syntax
+2. Data Structures
+
+## Second section
+This section covers:
+1. Methods and interfaces
+
+## Third section
+This section covers:
+1. Concurrent Programming
+2. 
